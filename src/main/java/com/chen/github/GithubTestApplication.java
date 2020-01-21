@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GithubTestApplication {
 
     public static void main(String[] args) {
+        //test
         SpringApplication.run(GithubTestApplication.class, args);
     }
 }
